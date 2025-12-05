@@ -1,4 +1,4 @@
-##Beginner-friendly implementations of classical machine learning algorithms using Python and scikit-learn.
+## Beginner-friendly implementations of classical machine learning algorithms using Python and scikit-learn.
 This repo is a quick collection of starter implementations for common machine learning algorithms. Everything in here is lightweight, readable, and meant to help you understand how these models actually work under the hood — not just copy/paste library calls.
 
 ## What’s inside
